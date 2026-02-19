@@ -83,7 +83,7 @@ with st.sidebar:
     st.markdown("---")
     st.header("🔗 Links")
     st.markdown("[Instagram da Liga](https://www.instagram.com/ligadsunicamp/)")
-    st.markdown("[GitHub do Projeto](https://github.com)")
+    st.markdown("[GitHub do Projeto](https://github.com/TKmmyuuki/Crop-analytics.git)")
     
     st.markdown("---")
     st.header("👥 Autores")
